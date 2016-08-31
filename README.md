@@ -1,3 +1,7 @@
 # CmdLnCalculator2016Aug30
-This is an object oriented (OOP) command line calculator written in C#.
-It was developed using Visual Studio 2015 Community Edition.
+
+This is a basic object oriented (OOP) command line calculator written in C#.  It was developed using Visual Studio 2015 Community Edition.
+
+The calculator takes four operators: mulitplication, division, plus and minus (* / + -) and integers only (not floats with decimal points).  The integers can be negative numbers (e.g. -4).
+
+The calculator performs the multiply and divide operations first (in order from left to right).  Then it does addition and subtraction operations (in order from left to right).
