@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MyCalculatorCmdLn
 {
     /// <summary>
-    /// Per
+    /// Manages the arguments of the calculator and performs the math operations in order.
     /// </summary>
     class Calculator
     {
